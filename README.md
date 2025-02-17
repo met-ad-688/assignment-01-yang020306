@@ -1,2 +1,22 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18148318&assignment_repo_type=AssignmentRepo)
-# Assignment-01
+In this assignment, I collected hardware and software information on a EC2 machine and wrote some scripts to perform simple data analysis tasks.
+
+To test the `count_python.sh`:
+
+1. Clone and change directory into the repository
+2. Download and save the `stackoverflow.zip` in `_output/`
+3. Change directory into `_output/`
+4. Run `unzip stackoverflow.zip` to extract the dataset into `_output/`
+5. Make the script executable by running `chmod +x count_python.sh`
+6. Finally, run the script by `./count_python.sh`
+
+To test the `count_github.py`:
+
+1. Clone and change directory into the repository
+2. Download and save the `stackoverflow.zip` in `_output/`
+3. Change directory into `_output/`
+4. Run `unzip stackoverflow.zip` to extract the dataset into `_output/`
+5. Finally, run the script by `python3 count_github.py`
+
+
+- Name: Yanyang He
+- Computing ID: U51326526
