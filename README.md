@@ -17,3 +17,6 @@ To test the `count_github.py`:
 4. Run `unzip stackoverflow.zip` to extract the dataset into `_output/`
 5. Finally, run the script by `python3 count_github.py`
 
+
+- Name: Yanyang He
+- Computing ID: U51326526
